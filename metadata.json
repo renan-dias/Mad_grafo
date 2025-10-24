@@ -1,0 +1,5 @@
+{
+  "name": "Graph Explorer Blueprint",
+  "description": "An interactive application to learn about graph theory, explore relationships between concepts, and build graphs in a hands-on activity. Features AI-powered generation and validation.",
+  "requestFramePermissions": []
+}
